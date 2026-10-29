@@ -49,10 +49,10 @@ I build **reliable** and **scalable** backend systems using Java and Spring Boot
     <th align="center">Monitoring</th>
   </tr>
   <tr>
-    <td align="center"><img src="https://skillicons.dev/icons?i=java,spring,maven&theme=dark" alt="Java, Spring Boot, Maven"/></td>
+    <td align="center"><img src="https://skillicons.dev/icons?i=java,spring,maven,laravel,php&theme=dark" alt="Java, Spring Boot, Maven, Laravel, PHP"/></td>
     <td align="center"><img src="https://skillicons.dev/icons?i=react,vite&theme=dark" alt="React, Vite"/></td>
-    <td align="center"><img src="https://skillicons.dev/icons?i=mysql,mariadb,sqlite&theme=dark" alt="MySQL, MariaDB, SQLite"/></td>
-    <td align="center"><img src="https://skillicons.dev/icons?i=docker,linux,git,github&theme=dark" alt="Docker, Linux, Git, GitHub"/></td>
+    <td align="center"><img src="https://skillicons.dev/icons?i=mysql,mariadb,postgres&theme=dark" alt="MySQL, MariaDB, PostgreSQL"/><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/oracle/oracle-original.svg" height="48" alt="Oracle"/></td>
+    <td align="center"><img src="https://skillicons.dev/icons?i=docker,linux,git,github,jenkins&theme=dark" alt="Docker, Linux, Git, GitHub, Jenkins"/></td>
     <td align="center"><img src="https://skillicons.dev/icons?i=prometheus,grafana&theme=dark" alt="Prometheus, Grafana"/></td>
   </tr>
 </table>
