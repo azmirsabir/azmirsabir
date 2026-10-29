@@ -70,32 +70,32 @@ I build **reliable** and **scalable** backend systems using Java and Spring Boot
 <table>
   <tr>
     <td width="25%" valign="top">
-      <h4>💳 Card Selling Backend</h4>
-      A backend system for selling and managing cards with secure and scalable architecture.
+      <h4>📱 My Korek Business APP <sub>(Spring Boot Microservice)</sub></h4>
+      A Spring Boot microservice backend for the My Korek business app with secure and scalable architecture.
       <br/><br/>
       <img src="https://img.shields.io/badge/Java-F89820?style=flat-square&logo=openjdk&logoColor=white"/>
       <img src="https://img.shields.io/badge/Spring_Boot-6DB33F?style=flat-square&logo=springboot&logoColor=white"/>
     </td>
     <td width="25%" valign="top">
-      <h4>📦 Inventory Management</h4>
-      Manage categories, items, stock and batches with full audit and business rules.
+      <h4>💳 Fintech Backend System <sub>(Spring Boot)</sub></h4>
+      A secure and scalable fintech backend with client management and external system integrations.
       <br/><br/>
       <img src="https://img.shields.io/badge/Java-F89820?style=flat-square&logo=openjdk&logoColor=white"/>
       <img src="https://img.shields.io/badge/Spring_Boot-6DB33F?style=flat-square&logo=springboot&logoColor=white"/>
     </td>
     <td width="25%" valign="top">
-      <h4>👥 Clients Profile</h4>
-      Client management and integration with external systems for a fintech platform.
+      <h4>🛵 ZUU Delivery App <sub>(Laravel)</sub></h4>
+      A delivery platform built with Laravel for managing orders, drivers and customers.
       <br/><br/>
-      <img src="https://img.shields.io/badge/Java-F89820?style=flat-square&logo=openjdk&logoColor=white"/>
-      <img src="https://img.shields.io/badge/Spring_Boot-6DB33F?style=flat-square&logo=springboot&logoColor=white"/>
+      <img src="https://img.shields.io/badge/Laravel-FF2D20?style=flat-square&logo=laravel&logoColor=white"/>
+      <img src="https://img.shields.io/badge/PHP-777BB4?style=flat-square&logo=php&logoColor=white"/>
     </td>
     <td width="25%" valign="top">
-      <h4>🖥️ Desktop Application <sub>(Planning)</sub></h4>
-      A Java desktop app with web UI, local SQLite database and secure distribution.
+      <h4>🏭 Nubin Factory &amp; Marketing System <sub>(Laravel)</sub></h4>
+      A system for managing factory operations together with marketing workflows.
       <br/><br/>
-      <img src="https://img.shields.io/badge/Java-F89820?style=flat-square&logo=openjdk&logoColor=white"/>
-      <img src="https://img.shields.io/badge/Spring_Boot-6DB33F?style=flat-square&logo=springboot&logoColor=white"/>
+      <img src="https://img.shields.io/badge/Laravel-FF2D20?style=flat-square&logo=laravel&logoColor=white"/>
+      <img src="https://img.shields.io/badge/PHP-777BB4?style=flat-square&logo=php&logoColor=white"/>
     </td>
   </tr>
 </table>
