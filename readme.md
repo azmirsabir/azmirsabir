@@ -1,171 +1,164 @@
- <div align="center">
+<div align="center">
 
-  <img src="./assets/java-quest-banner.png" width="100%" alt="Java Quest — Building reliable backend systems with Java and Spring Boot"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&height=220&color=0:0D1117,50:1F3A6E,100:58A6FF&text=Azmir%20Sabir&fontColor=E6EDF3&fontSize=60&fontAlignY=38&desc=Better%20Software%20%C2%B7%20Brighter%20Future&descSize=20&descAlignY=60&animation=fadeIn" width="100%" alt="Azmir Sabir — Better Software, Brighter Future"/>
 
-  <br/>
+### Java Backend Developer
 
-  <a href="https://github.com/azmirsabir">
-    <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=20&duration=2800&pause=900&color=58A6FF&center=true&vCenter=true&width=650&lines=Hello%2C+World!+I'm+Azmir+Sabir;Java+Backend+Developer;Spring+Boot+%7C+Clean+Architecture;Turning+complexity+into+clean+code" alt="Typing introduction"/>
-  </a>
+<a href="https://github.com/azmirsabir">
+  <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=18&duration=2800&pause=900&color=58A6FF&center=true&vCenter=true&width=520&lines=%3E+Java;%3E+Spring+Boot;%3E+Clean+Architecture;%3E+Scalable+Systems;%3E+Always+Learning+..." alt="Typing animation"/>
+</a>
 
-  <br/>
+<br/>
 
-  **JAVA BACKEND DEVELOPER · SOFTWARE ENGINEERING**
-
-  <br/>
-
-  [![GitHub](https://img.shields.io/badge/GitHub-azmirsabir-181717?style=flat-square&logo=github)](https://github.com/azmirsabir)
-  ![Java](https://img.shields.io/badge/Java-Backend-orange?style=flat-square&logo=openjdk&logoColor=white)
-  ![Spring Boot](https://img.shields.io/badge/Spring_Boot-Development-6DB33F?style=flat-square&logo=springboot&logoColor=white)
+![Java](https://img.shields.io/badge/Java-Backend-F89820?style=for-the-badge&logo=openjdk&logoColor=white&labelColor=0D1117)
+![Spring Boot](https://img.shields.io/badge/Spring_Boot-Development-6DB33F?style=for-the-badge&logo=springboot&logoColor=white&labelColor=0D1117)
+![Location](https://img.shields.io/badge/Location-Iraq-58A6FF?style=for-the-badge&logo=googlemaps&logoColor=white&labelColor=0D1117)
+![Joined](https://img.shields.io/badge/Joined-2025-8B949E?style=for-the-badge&logo=github&logoColor=white&labelColor=0D1117)
 
 </div>
 
----
+<br/>
 
-### `$ whoami`
+## 👋 About Me
 
-I'm a software developer focused on building **reliable, secure, and maintainable backend systems** using Java and Spring Boot.
+I build **reliable** and **scalable** backend systems using Java and Spring Boot. I enjoy clean architecture, solving real-world **problems**, and turning ideas into production-ready applications.
 
-I enjoy solving real-world engineering problems, designing clear application boundaries, and turning complex business requirements into well-structured software.
+> 💬 *"Clean code is not just about writing. It's about thinking."*
 
-- ☕ **Backend engineering:** Java, Spring Boot, REST APIs
+- ☕ **Backend:** Java, Spring Boot, REST APIs
 - 🏛️ **Architecture:** Clean Architecture, SOLID principles, modular design
 - 🔐 **Security:** Authentication, authorization, secure integrations
-- 🗄️ **Data:** Relational database design, transactions, query optimization
+- 🗄️ **Data:** Relational design, transactions, query optimization
 - 🧪 **Quality:** Automated testing, maintainability, code reviews
 - ⚙️ **Infrastructure:** Docker, Linux, monitoring, observability
 
-> I believe good software is built through thoughtful design, clean code, and continuous improvement.
+<br/>
 
 ---
 
-### `./java-quest`
+## </> Technologies & Tools
 
 <div align="center">
 
-  <img src="https://img.shields.io/badge/QUEST-01-161B22?style=for-the-badge&labelColor=0D1117" alt="Quest 01"/>
-  <img src="https://img.shields.io/badge/CLASS-BackendEngineer-1F6FEB?style=for-the-badge&labelColor=0D1117" alt="Backend Engineer"/>
+<table>
+  <tr>
+    <th align="center">Backend</th>
+    <th align="center">Frontend</th>
+    <th align="center">Databases</th>
+    <th align="center">DevOps & Tools</th>
+    <th align="center">Monitoring</th>
+  </tr>
+  <tr>
+    <td align="center"><img src="https://skillicons.dev/icons?i=java,spring,maven&theme=dark" alt="Java, Spring Boot, Maven"/></td>
+    <td align="center"><img src="https://skillicons.dev/icons?i=react,vite&theme=dark" alt="React, Vite"/></td>
+    <td align="center"><img src="https://skillicons.dev/icons?i=mysql,mariadb,sqlite&theme=dark" alt="MySQL, MariaDB, SQLite"/></td>
+    <td align="center"><img src="https://skillicons.dev/icons?i=docker,linux,git,github&theme=dark" alt="Docker, Linux, Git, GitHub"/></td>
+    <td align="center"><img src="https://skillicons.dev/icons?i=prometheus,grafana&theme=dark" alt="Prometheus, Grafana"/></td>
+  </tr>
+</table>
 
 </div>
 
-```text
-╭────────────────────── JAVA QUEST ──────────────────────╮
-│                                                        │
-│   PLAYER  : Azmir Sabir                                │
-│   CLASS   : Java Backend Developer                     │
-│   WEAPON  : Spring Boot                                │
-│   MISSION : Build reliable software                    │
-│                                                        │
-│   [✓] Learn the fundamentals                           │
-│   [✓] Build backend applications                       │
-│   [>] Master system design                             │
-│   [>] Build scalable distributed systems               │
-│   [>] Keep improving                                   │
-│                                                        │
-│   STATUS  : LEVELING UP...                             │
-╰────────────────────────────────────────────────────────╯
-```
-
-*Every project is another quest. Every bug is another lesson.*
+<br/>
 
 ---
 
-### ⚒️ Technical Arsenal
+## 📁 Featured Projects
 
 <div align="center">
 
-**Backend Engineering**
+<table>
+  <tr>
+    <td width="25%" valign="top">
+      <h4>💳 Card Selling Backend</h4>
+      A backend system for selling and managing cards with secure and scalable architecture.
+      <br/><br/>
+      <img src="https://img.shields.io/badge/Java-F89820?style=flat-square&logo=openjdk&logoColor=white"/>
+      <img src="https://img.shields.io/badge/Spring_Boot-6DB33F?style=flat-square&logo=springboot&logoColor=white"/>
+    </td>
+    <td width="25%" valign="top">
+      <h4>📦 Inventory Management</h4>
+      Manage categories, items, stock and batches with full audit and business rules.
+      <br/><br/>
+      <img src="https://img.shields.io/badge/Java-F89820?style=flat-square&logo=openjdk&logoColor=white"/>
+      <img src="https://img.shields.io/badge/Spring_Boot-6DB33F?style=flat-square&logo=springboot&logoColor=white"/>
+    </td>
+    <td width="25%" valign="top">
+      <h4>👥 Clients Profile</h4>
+      Client management and integration with external systems for a fintech platform.
+      <br/><br/>
+      <img src="https://img.shields.io/badge/Java-F89820?style=flat-square&logo=openjdk&logoColor=white"/>
+      <img src="https://img.shields.io/badge/Spring_Boot-6DB33F?style=flat-square&logo=springboot&logoColor=white"/>
+    </td>
+    <td width="25%" valign="top">
+      <h4>🖥️ Desktop Application <sub>(Planning)</sub></h4>
+      A Java desktop app with web UI, local SQLite database and secure distribution.
+      <br/><br/>
+      <img src="https://img.shields.io/badge/Java-F89820?style=flat-square&logo=openjdk&logoColor=white"/>
+      <img src="https://img.shields.io/badge/Spring_Boot-6DB33F?style=flat-square&logo=springboot&logoColor=white"/>
+    </td>
+  </tr>
+</table>
 
-<img src="https://skillicons.dev/icons?i=java,spring,maven&theme=dark" alt="Java, Spring Boot, Maven"/>
-
-**Databases**
-
-<img src="https://skillicons.dev/icons?i=mysql,sqlite&theme=dark" alt="MySQL and SQLite"/>
-
-**Frontend**
-
-<img src="https://skillicons.dev/icons?i=react,vite,js,html,css&theme=dark" alt="React, Vite, JavaScript, HTML, CSS"/>
-
-**DevOps & Developer Tools**
-
-<img src="https://skillicons.dev/icons?i=docker,linux,git,github&theme=dark" alt="Docker, Linux, Git, GitHub"/>
-
-**Monitoring & Observability**
-
-<img src="https://skillicons.dev/icons?i=prometheus,grafana&theme=dark" alt="Prometheus and Grafana"/>
+<a href="https://github.com/azmirsabir?tab=repositories"><b>View all repositories →</b></a>
 
 </div>
 
----
-
-### 🏗️ Engineering Interests
-
-| Area | What interests me |
-|---|---|
-| Backend architecture | Modular systems, clean boundaries, maintainability |
-| API engineering | RESTful design, validation, consistent error handling |
-| Application security | Authentication, authorization, secure client integration |
-| Database engineering | Data integrity, transaction management, query performance |
-| Distributed systems | Messaging, reliability, failure handling |
-| Software quality | Automated tests, static analysis, readable code |
-| Observability | Metrics, structured logging, tracing, monitoring |
+<br/>
 
 ---
 
-### 🚀 What I'm Building
-
-My interests include practical business systems and backend infrastructure:
-
-- **Financial technology** — secure client integrations and card-selling workflows.
-- **Inventory systems** — catalog management, stock operations, and business rules.
-- **Client platforms** — client profiles, access control, and integration APIs.
-- **Desktop software** — Java applications with web-based interfaces and local SQLite storage.
-- **Reliable services** — testing, observability, and maintainable backend architecture.
-
----
-
-### 📊 GitHub Analytics
+## 📊 GitHub Stats
 
 <div align="center">
 
-  <img height="165" src="https://github-readme-stats.vercel.app/api?username=azmirsabir&show_icons=true&hide_border=true&theme=github_dark&rank_icon=github" alt="GitHub statistics"/>
+<img height="165" src="https://github-readme-stats.vercel.app/api?username=azmirsabir&show_icons=true&hide_border=true&theme=github_dark&rank_icon=github" alt="GitHub statistics"/>
+<img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=azmirsabir&layout=donut&hide_border=true&theme=github_dark&langs_count=6" alt="Most used languages"/>
 
-  <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=azmirsabir&layout=compact&hide_border=true&theme=github_dark&langs_count=8" alt="Most used languages"/>
+<br/><br/>
 
-  <br/><br/>
-
-  <img width="70%" src="https://streak-stats.demolab.com?user=azmirsabir&theme=github-dark-blue&hide_border=true" alt="GitHub contribution streak"/>
+<img width="80%" src="https://streak-stats.demolab.com?user=azmirsabir&theme=github-dark-blue&hide_border=true" alt="GitHub contribution streak"/>
 
 </div>
 
+<br/>
+
 ---
 
-### 🐍 Contribution Trail
+## 🐍 Contribution Activity
 
 <div align="center">
 
-  <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/azmirsabir/azmirsabir/output/github-contribution-grid-snake-dark.svg"/>
-    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/azmirsabir/azmirsabir/output/github-contribution-grid-snake.svg"/>
-    <img alt="Contribution animation" src="https://raw.githubusercontent.com/azmirsabir/azmirsabir/output/github-contribution-grid-snake.svg" width="100%"/>
-  </picture>
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/azmirsabir/azmirsabir/output/github-contribution-grid-snake-dark.svg"/>
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/azmirsabir/azmirsabir/output/github-contribution-grid-snake.svg"/>
+  <img alt="Contribution animation" src="https://raw.githubusercontent.com/azmirsabir/azmirsabir/output/github-contribution-grid-snake.svg" width="100%"/>
+</picture>
+
+*Keep going! 💪*
 
 </div>
 
+<br/>
+
 ---
 
-### 🤝 Connect
+## 🤝 Let's Connect
 
 <div align="center">
 
-  Open to exchanging ideas about Java, software architecture, backend engineering, and interesting technical challenges.
+Open to collaboration, new opportunities, and interesting discussions.
 
-  <br/>
+<br/>
 
-  [![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github)](https://github.com/azmirsabir)
+<a href="https://github.com/azmirsabir"><img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white"/></a>
+<a href="https://www.linkedin.com/in/azmirsabir"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
+<a href="mailto:your-email@example.com"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white"/></a>
 
-  <br/>
+<br/><br/>
 
-  **Keep building. Keep learning. Keep leveling up.** ☕ 
+*Build Something Great.* ☕
+
+<img src="https://capsule-render.vercel.app/api?type=waving&height=100&color=0:58A6FF,50:1F3A6E,100:0D1117&section=footer" width="100%" alt=""/>
 
 </div>
