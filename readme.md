@@ -15,6 +15,16 @@
 ![Location](https://img.shields.io/badge/Location-Iraq-58A6FF?style=for-the-badge&logo=googlemaps&logoColor=white&labelColor=0D1117)
 ![Joined](https://img.shields.io/badge/Joined-2016-8B949E?style=for-the-badge&logo=github&logoColor=white&labelColor=0D1117)
 
+<br/><br/>
+
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/azmirsabir/azmirsabir/output/github-contribution-grid-snake-dark.svg"/>
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/azmirsabir/azmirsabir/output/github-contribution-grid-snake.svg"/>
+  <img alt="Snake eating my GitHub contributions" src="https://raw.githubusercontent.com/azmirsabir/azmirsabir/output/github-contribution-grid-snake-dark.svg" width="100%"/>
+</picture>
+
+*Keep going! 💪*
+
 </div>
 
 <br/>
@@ -118,24 +128,6 @@ I build **reliable** and **scalable** backend systems using Java and Spring Boot
 <br/><br/>
 
 <img width="80%" src="https://streak-stats.demolab.com?user=azmirsabir&theme=github-dark-blue&hide_border=true" alt="GitHub contribution streak"/>
-
-</div>
-
-<br/>
-
----
-
-## 🐍 Contribution Activity
-
-<div align="center">
-
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/azmirsabir/azmirsabir/output/github-contribution-grid-snake-dark.svg"/>
-  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/azmirsabir/azmirsabir/output/github-contribution-grid-snake.svg"/>
-  <img alt="Contribution animation" src="https://raw.githubusercontent.com/azmirsabir/azmirsabir/output/github-contribution-grid-snake.svg" width="100%"/>
-</picture>
-
-*Keep going! 💪*
 
 </div>
 
